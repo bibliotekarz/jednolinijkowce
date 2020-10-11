@@ -8,7 +8,10 @@ Skrypt wywoływany z crona. W przypadku braku szukanego słowa na pobranej stron
 
 2. ## notepadpp.bat
 Batch file z przekazaniem parametru dla linii komend w win10. Przydatne przy wywoływaniu edytora np. podczas konfiguracji gita 
+
 > git config --local -e
+
 jeśli w konfigu np. globalnym podasz skrót do batcha wywołującego
+
 > [core]
 > editor = D:/roboczy/git_projekty/notepadpp.bat
