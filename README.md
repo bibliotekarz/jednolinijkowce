@@ -14,4 +14,5 @@ Batch file z przekazaniem parametru dla linii komend w win10. Przydatne przy wyw
 jeśli w konfigu np. globalnym podasz skrót do batcha wywołującego
 
 > [core]
+
 > editor = D:/roboczy/git_projekty/notepadpp.bat
