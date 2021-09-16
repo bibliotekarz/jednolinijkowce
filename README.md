@@ -8,3 +8,17 @@ Skrypt wywoływany z crona. W przypadku braku szukanego słowa na pobranej stron
 
 2. ## vulnerable-plugs.sh
 Skrypt pobierający listę nazw podatnych wtyczek WordPressa z cyklicznych raportów publikowanych w serwisie ithemes.com. W celu pozyskania listy podmień wartość zmiennej ADDRESS na url aktualnego raportu.
+
+2. ## notepadpp.bat
+Batch file z przekazaniem parametru dla linii komend w win10. Przydatne przy wywoływaniu edytora np. podczas konfiguracji gita 
+
+> git config --local -e
+
+jeśli w konfigu np. globalnym podasz skrót do batcha wywołującego
+
+> [core]
+>
+> editor = D:/roboczy/git_projekty/notepadpp.bat
+
+3. ## vulnerable-plugs.sh
+Skrypt pobierający listę nazw podatnych wtyczek WordPressa z cyklicznych raportów publikowanych w serwisie ithemes.com. W celu pozyskania listy podmień wartość zmiennej ADDRESS na url aktualnego raportu.
